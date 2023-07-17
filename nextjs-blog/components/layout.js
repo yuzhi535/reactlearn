@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import utilStyles from "../styles/utils.module.css";
 
-const name = "周誉喜";
+const name = "kurisu";
 export const siteTitle = "Next.js Sample Website";
 
 
